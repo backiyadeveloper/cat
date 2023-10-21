@@ -1,0 +1,38 @@
+img{
+    height: 200px;
+    width: 200px;
+}
+.back{
+    background-color: black;
+    height: 600px;
+    width: 300px;
+}
+.box{
+    height: 100px;
+    width: 200px;
+    background-color: gray;
+    position: relative;
+    top: 70px;
+    left: 50px;
+    border-radius: 10px;
+    color: white;
+}
+.text{
+    position: relative;
+    left: 50px;
+    top: 30px;
+}
+.on1{
+    color: white;
+    background-color: gray;
+}
+.on1:hover{
+    background-color: green;
+}
+.off1:hover{
+    background-color: red;
+}
+.off1{
+    color: white;
+    background-color: gray;
+}
